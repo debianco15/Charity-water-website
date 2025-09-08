@@ -1,2 +1,2 @@
 # Charity-water-website
-This is my first try at creating a usuable, real website for Charity: water.
+This is my first attempt at creating a usuable, real website for Charity: water.
